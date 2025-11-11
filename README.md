@@ -1,4 +1,4 @@
-## Hi there!
+## Hi There!
 You've seemed to have stumbled onto my ABOUT ME page. Let me tell you a bit about myself!
 
 <!--
